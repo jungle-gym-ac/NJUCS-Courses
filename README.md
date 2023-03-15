@@ -11,3 +11,4 @@ Course Materials from NJUCS
   - [JW05-07, Final Project](https://github.com/jwork-2021-attic/jw05-jungle-gym-ac)
   - [Report of Final Project](https://github.com/jwork-2021-attic/jw08-final-jungle-gym-ac)
 - Computer Vision: Representation and Recognition
+- [Big Data Processing: Comprehensive Experiments](https://github.com/jungle-gym-ac/NJU-Big-Data)
