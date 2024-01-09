@@ -1,7 +1,6 @@
 # NJUCS-Courses
-Course Materials from NJUCS
-
-- [Operating System](https://gitee.com/jungle-gym-ac/ComputerNetwork)
+Course Materials from NJUCS Undergraduate Courses
+- [Operating System](https://gitee.com/jungle-gym-ac/OperatingSystem)
 - [Computer Network](https://gitee.com/jungle-gym-ac/ComputerNetwork)
 - Advanced Programming in Java
   - [JW01](https://github.com/jwork-2021-attic/jw01-jungle-gym-ac)
@@ -12,3 +11,8 @@ Course Materials from NJUCS
   - [Report of Final Project](https://github.com/jwork-2021-attic/jw08-final-jungle-gym-ac)
 - Computer Vision: Representation and Recognition
 - [Big Data Processing: Comprehensive Experiments](https://github.com/jungle-gym-ac/NJU-Big-Data)
+
+Graduate Courses
+- Distributed System
+  - [RPC](https://github.com/jungle-gym-ac/NJU-DisSys-Go-RPC)
+  - [Raft]
